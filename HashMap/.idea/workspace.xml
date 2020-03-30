@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ad53204-266b-4a7f-a59f-c79b83e521c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZI9KqLsPL1vmLukliOUV3LE0Ly" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/courserajava.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.WordsInFiles">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="HashMap" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordsInFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordsInFiles" />
+      <module name="HashMap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.WordsInFiles" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordsInFiles" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ad53204-266b-4a7f-a59f-c79b83e521c6" name="Default Changelist" comment="" />
+      <created>1584515679643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584515679643</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="58" width="848" height="677" key="#Project_Structure" timestamp="1584520478573">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="518" y="58" width="848" height="677" key="#Project_Structure/67.27.1299.741@67.27.1299.741" timestamp="1584520478573" />
+    <state x="725" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584520476555">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="725" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584520476555" />
+    <state width="604" height="175" key="GridCell.Tab.0.bottom" timestamp="1584530356438">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584530356438" />
+    <state width="604" height="175" key="GridCell.Tab.0.center" timestamp="1584530356437">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584530356437" />
+    <state width="604" height="175" key="GridCell.Tab.0.left" timestamp="1584530356437">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584530356437" />
+    <state width="604" height="175" key="GridCell.Tab.0.right" timestamp="1584530356437">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="604" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584530356437" />
+    <state x="678" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584541815695">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="678" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584541815695" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1584541856869">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1584541856869" />
+    <state x="55" y="89" key="search.everywhere.popup" timestamp="1584521781123">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="55" y="89" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1584521781123" />
+  </component>
+</project>
